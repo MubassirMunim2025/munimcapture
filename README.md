@@ -19,7 +19,6 @@ A modern and responsive photography portfolio website to showcase creative photo
 
 - **HTML5** – Structured content  
 - **CSS3** – Styling and responsiveness  
-- **JavaScript** – Interactive elements  
 - **Google Fonts** – Elegant typography  
 
 ---
