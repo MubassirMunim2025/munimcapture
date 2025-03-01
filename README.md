@@ -2,6 +2,7 @@
 # 📸 Munim Capture | Photography Portfolio Website
 
 A modern and responsive photography portfolio website to showcase creative photography work.
+https://munimcapture.netlify.app/
 
 ---
 
@@ -21,19 +22,6 @@ A modern and responsive photography portfolio website to showcase creative photo
 - **CSS3** – Styling and responsiveness  
 - **Google Fonts** – Elegant typography  
 
----
-
-## 📂 Project Structure
-munimcapture/ 
-│── index.html 
-# Homepage │── about.html 
-# About Us page │── services.html 
-# Services page │── gallery.html 
-# Gallery page │── contact.html 
-# Contact Us page │── styles.css 
-# Main CSS file │── images/ 
-# Image assets │── README.md 
-# Project documentation
 ---
 
 ## 🌐 Live Demo
