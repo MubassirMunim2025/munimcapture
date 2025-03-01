@@ -24,8 +24,8 @@ A modern and responsive photography portfolio website to showcase creative photo
 ---
 
 ## 📂 Project Structure
-
+munimcapture/ │── index.html # Homepage │── about.html # About Us page │── services.html # Services page │── gallery.html # Gallery page │── contact.html # Contact Us page │── styles.css # Main CSS file │── images/ # Image assets │── README.md # Project documentation
 ---
 
-##🌐 Live Demo
+## 🌐 Live Demo
 - 👉 Munim Capture Live Website (https://munimcapture.netlify.app/)
